@@ -15,10 +15,8 @@
 // Custom bootstrap variables must be set or imported *before* bootstrap.
 @import "bootstrap";
 
-.header {
-  padding: 60px;
-  text-align: center;
+header > .jumbotron{
   background: #1abc9c;
-  color: white;
+  color: #FFF;
   font-size: 30px;
 }
